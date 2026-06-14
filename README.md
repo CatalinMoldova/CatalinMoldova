@@ -1,31 +1,48 @@
-# Hi, I'm Catalin Botezat 👋
+# Hi, I'm Catalin Botezat
 
-Mathematics & Computer Science student focused on AI, machine learning, quantitative finance, and full-stack systems.
+I'm a Mathematics & Computer Science student at NYU Abu Dhabi building projects at the intersection of **machine learning, quantitative finance, and software engineering**.
 
-I build:
-- AI/ML models for classification, prediction, and optimization
-- Quantitative finance notebooks and statistical models
-- Full-stack web applications with TypeScript, Next.js, and Tailwind
-- Research-style projects in quantum machine learning and deep learning
+My background in competitive mathematics and programming shapes how I work: I like turning mathematical ideas into clean, reproducible systems — from financial modeling and credit-risk audits to deep learning pipelines, LLM fine-tuning, and production web applications.
+
+## What I Build
+
+- **Machine Learning Systems** — deep learning pipelines, model evaluation, fine-tuning, ablation studies, and reproducible experiments.
+- **Quantitative Finance & Statistical Modeling** — factor models, regression, backtesting infrastructure, credit-risk analysis, and trading strategy research.
+- **Software Engineering Projects** — full-stack applications, production websites, clean APIs, testing, CI, and deployment-ready project structure.
+- **AI Research Prototypes** — LLM fine-tuning, optimization methods, model diagnostics, and applied research notebooks.
 
 ## Featured Projects
 
-### Vehicle Behavior Classifier
-Deep learning pipeline for classifying vehicle behavior from simulated Abu Dhabi traffic trajectories.
+### ML & AI
 
-### AcademicHub
-Full-stack education platform built with Next.js, TypeScript, Tailwind CSS, forms, API routes, and SEO.
+**SmolLM LoRA Fine-Tuning**  
+Parameter-efficient fine-tuning of SmolLM-135M using LoRA, with rank ablation, W&B experiment tracking, perplexity evaluation, and qualitative failure-mode analysis.
 
-### Hedge Fund Returns Analysis
-Ridge regression and Fama-French factor analysis for hedge fund return prediction.
+**Vehicle Trajectory Behavior Classifier**  
+CNN-LSTM pipeline for classifying driving behavior from speed and position time-series data, focused on sequence modeling and mobility analytics.
 
-### Halma Minimax AI
-Python game AI using Minimax and Alpha-Beta pruning.
+**Reactiva Perú Credit-Risk Audit**  
+Replication and methodological audit of credit-risk ML models, identifying target leakage through statistical testing and Random Forest validation.
 
-## Tech Stack
+### Quantitative Finance
 
-Python · TypeScript · C++ · Next.js · React · Tailwind CSS · PyTorch · scikit-learn · Pandas · NumPy · Jupyter · Git · GitHub Actions
+**Trading Strategy ML**  
+Machine learning research pipeline for financial time-series modeling, strategy training, evaluation, and reproducible experimentation.
 
-## Interests
+**Hedge Fund Returns Analysis**  
+Ridge regression and Fama-French factor analysis for hedge fund return modeling, including bias-variance analysis and feature engineering.
 
-AI agents · LLMs · quantitative finance · optimization · machine learning research · software engineering
+### Software Engineering
+
+**AcademicHub**  
+Production Next.js website for a Moldovan mathematics school preparing 100+ active students for national exams, with enrollment flows, SEO, and lead-management features.
+
+**Halma Minimax AI**  
+Python game AI implementing Minimax and Alpha-Beta pruning for strategic decision-making in Halma.
+
+## Technical Stack
+**Languages:** Python, TypeScript, C++, SQL  
+**ML/Data:** PyTorch, scikit-learn, pandas, NumPy, Jupyter, W&B  
+**Software:** Next.js, React, Tailwind CSS, FastAPI, Docker, GitHub Actions  
+**Finance/Stats:** regression, factor models, time-series analysis, backtesting, risk modeling  
+**Interests:** ML engineering, AI agents, quantitative trading, financial modeling, optimization, applied AI research
